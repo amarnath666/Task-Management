@@ -1,4 +1,4 @@
-# Task Management
+# Task Management App
 
 ## Features
 
